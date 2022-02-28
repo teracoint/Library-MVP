@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\bin\Debug\Library-MVP.exe.config
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\bin\Debug\Library-MVP.exe
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\bin\Debug\Library-MVP.pdb
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\obj\Debug\Library-MVP.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\obj\Debug\Library_MVP.Properties.Resources.resources
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\obj\Debug\Library-MVP.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\obj\Debug\Library-MVP.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\obj\Debug\Library-MVP.exe
+C:\Users\PC\source\repos\Library-MVP\Library-MVP\obj\Debug\Library-MVP.pdb
